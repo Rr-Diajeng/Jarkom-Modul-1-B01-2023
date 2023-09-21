@@ -21,7 +21,7 @@ d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari
 - Kita cari terlebih dahulu paket mana saja yang menggunakan protokol `FTP`. Hal ini dapat kita lakukan dengan memasukkan syntax `FTP` di filter wireshark
 
     ![ftp](./assets/ftpno1.png)
-- Karena kita ingin melihat aktivitas protocol `FTP`, maka kita liat dulu perintah `STOR` yang terdapat di frame number 147. 
+- Karena kita ingin melihat aktivitas protocol `FTP` untuk mengunggah file, maka kita lihat perintah `STOR` yang terdapat di frame number 147. 
 - Kita klik baris number 147, lalu kita klik kanan untuk melihat TCP Stream. Setelah itu, kita bisa melihat sequence number (raw) dan acknowledgment number (raw)
     <br>![sq](./assets/sqnumber147.png)</br>
     <br>![ack](./assets/acknumber147.png)</br>
