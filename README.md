@@ -41,6 +41,9 @@ d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari
     <br>![terminal](./assets/term1.png)</br>
     <br>![submit](./assets/hasil1.png)</br>
 
+### Kendala Pengerjaan:
+Tidak ada
+
 ## Soal No 2
 ### Soal:
 Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
@@ -59,7 +62,9 @@ Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 - Maka kita masukkan hasilnya, sehingga:
     <br>![terminal](./assets/term2.png)</br>
     <br>![submit](./assets/hasil2.png)</br>
-    
+
+### Kendala Pengerjaan:
+Tidak ada
 
 ## Soal No 3
 ### Soal:
@@ -80,6 +85,9 @@ b. Protokol layer transport apa yang digunakan? </br>
 - Maka kita masukkan hasilnya, sehingga:
     <br>![terminal](./assets/term3.png)</br>
     <br>![submit](./assets/hasil3.png)</br>
+    
+### Kendala Pengerjaan:
+Tidak ada
 
 ## Soal No 4
 ### Soal:
@@ -99,6 +107,8 @@ paket 130 tersebut lalu kita checksum
     <br>![terminal](./assets/term4.png)</br>
     <br>![submit](./assets/hasil4.png)</br>
 
+### Kendala Pengerjaan:
+Tidak ada
 
 ## Soal No 5
 ### Soal:
@@ -147,6 +157,9 @@ c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP? 
     <br>![terminal](./assets/term5.png)</br>
     <br>![submit](./assets/hasil5.png)</br>
 
+### Kendala Pengerjaan:
+Tidak ada
+
 ## Soal No 6
 ### Soal:
 Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
@@ -190,6 +203,8 @@ Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggema
     <br>![terminal](./assets/term6.png)</br>
     <br>![submit](./assets/hasil6.png)</br>
 
+### Kendala Pengerjaan:
+Soal susah dan ternyata riddle 
 
 ## Soal No 7
 ### Soal:
@@ -207,6 +222,8 @@ Berapa jumlah packet yang menuju IP 184.87.193.88?
     <br>![terminal](./assets/term7.png)</br>
     <br>![submit](./assets/hasil7.png)</br>
 
+### Kendala Pengerjaan:
+Tidak ada
 
 ## Soal No 8
 ### Soal:
@@ -221,6 +238,9 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
     <br>![terminal](./assets/term8.png)</br>
     <br>![submit](./assets/hasil8.png)</br>
 
+### Kendala Pengerjaan:
+Tidak ada
+
 ## Soal No 9
 ### Soal:
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
@@ -233,6 +253,9 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 - Maka kita masukkan hasilnya, sehingga:
     <br>![terminal](./assets/term9.png)</br>
     <br>![submit](./assets/hasil9.png)</br>
+
+### Kendala Pengerjaan:
+Tidak ada
 
 ## Soal No 10
 ### Soal:
@@ -255,3 +278,6 @@ Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 - Maka kita masukkan hasilnya, sehingga:
     <br>![terminal](./assets/term10.png)</br>
     <br>![submit](./assets/hasil10.png)</br>
+
+### Kendala Pengerjaan:
+Tidak ada
