@@ -50,7 +50,7 @@ Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 
 ### Jawaban:
 
-- Untuk portal praktikum jaringan komputer, tentunya memakai protokol http, karena kita mengakses ke suatu halaman web
+- Untuk portal praktikum jaringan komputer, tentunya memakai protokol http, karena kita mengakses ke suatu halaman web. Kita lakukan capture dulu di wireshark lalu masuk ke portal jaringan komputer agar wireshark dapat capture paket tersebut. 
 
 - Kemudian, kita filter di wireshark untuk hanya mengeluarkan paket dengan protokol `http`
     ![http](./assets/httpno2.png)
